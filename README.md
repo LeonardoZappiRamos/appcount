@@ -1,6 +1,6 @@
 # appcount
 
-A new Flutter project.
+My first Flutter project, it's just an app that count or decrease a number by pressing a button.
 
 ## Getting Started
 
